@@ -83,7 +83,7 @@ Think of it as having a **junior analyst on demand** that works 24/7.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/autonomous-research-agent.git
+git clone https://github.com/HarshitWaldia/Autonomous-Market-Research-Agent.git
 cd autonomous-research-agent
 ```
 
